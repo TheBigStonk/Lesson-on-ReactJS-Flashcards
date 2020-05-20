@@ -1,3 +1,2 @@
-# https://www.robotstxt.org/robotstxt.html
+# I am a robot... beep boop bop nothing to scrape here
 User-agent: *
-Disallow:
